@@ -1,0 +1,15 @@
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752912556, 1, 1, 'ПП', 1);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752980686, 1, 1, 'ОБ', 3);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752509876, 2, 2, 'ИИ', 1);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752967849, 3, 3, 'ТВ', 1);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3753389067, 4, 4, 'СИ', 3);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3753389067, 5, 5, 'АЕ', 3);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752912247, 6, 6, 'ЕВ', 2);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752556711, 7, 7, 'ЗА', 3);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752500987, 8, 8, 'МЕ', 3);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3753389045, 9, 9, 'МО', 2);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3753345467, 10, 10, 'ИН', 3);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752960886, 11, 11, 'СИ', 1);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752500712, 12, 12, 'ИВ', 1);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3753389046, 13, 13, 'ОБ', 3);
+INSERT INTO beltel.phone_volume (phone, id_abonent, id_name, io, id_type) VALUES (3752567890, 14, 14, 'НИ', 3);

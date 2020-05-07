@@ -1,0 +1,14 @@
+INSERT INTO beltel.abon_name (id_name, name) VALUES (1, 'Иванов');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (2, 'Петров');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (3, 'Кукшкин');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (4, 'Кукушкина');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (5, 'Барсук');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (6, 'Ромашкина');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (7, 'Неронская');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (8, 'Жук');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (9, 'Кут');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (10, 'Кулакова');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (11, 'Сидорова');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (12, 'Смирнов');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (13, 'Кислый');
+INSERT INTO beltel.abon_name (id_name, name) VALUES (14, 'Смоляков');
