@@ -1,5 +1,3 @@
-package by.neronskaya;
-
 /*
 Задание:
 Разработать консольное приложение, которое будет подсчитывать количество простых
@@ -18,7 +16,7 @@ public class Unit1 {
         System.out.println("Процент простых чисел от общего количества: "
                 + getPercentPrimeNumbers(primeNumberAmount, limit));
         long endTime = System.nanoTime();
-        long duration = (endTime - startTime);
+        double duration =(double) (endTime - startTime)/1000000000;
         System.out.println("Продолжительность выполнения приложения: " + duration);
 
     }
@@ -30,7 +28,7 @@ public class Unit1 {
     protected static int countPrimeNumbers(int maxValue) {
         int counter = 0;
         for (int i = 0; i < maxValue; i++) {
-            if (isPrime(maxValue)) {
+            if (isPrime(i)) {
                 counter++;
             }
         }
