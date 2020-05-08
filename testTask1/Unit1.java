@@ -21,11 +21,11 @@ public class Unit1 {
 
     }
 
-    protected static int getPercentPrimeNumbers(int counter, int maxValue) {
+    private static int getPercentPrimeNumbers(int counter, int maxValue) {
         return counter * 100 / maxValue;
     }
 
-    protected static int countPrimeNumbers(int maxValue) {
+    private static int countPrimeNumbers(int maxValue) {
         int counter = 0;
         for (int i = 0; i < maxValue; i++) {
             if (isPrime(i)) {
@@ -36,7 +36,7 @@ public class Unit1 {
     }
 
 
-    public static boolean isPrime(int n) {
+    private static boolean isPrime(int n) {
         if (n <= 1) {
             return false;
         }
