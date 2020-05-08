@@ -10,7 +10,7 @@
 public class Unit1 {
     public static void main(String[] args) {
         long startTime = System.nanoTime();
-        int limit = Integer.MAX_VALUE;
+        int limit = Integer.MAX_VALUE; // при значении Integer.MAX_VALUE/100 - 22 секунды, при Integer.MAX_VALUE/10 -223 секунды
         int primeNumberAmount = countPrimeNumbers(limit);
         System.out.println("Количество простых чисел: " + primeNumberAmount);
         System.out.println("Процент простых чисел от общего количества: "
